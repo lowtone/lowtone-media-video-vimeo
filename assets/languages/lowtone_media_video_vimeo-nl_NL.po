@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vimeo\n"
+"POT-Creation-Date: 2013-06-22 22:29+0100\n"
+"PO-Revision-Date: 2013-06-22 22:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lowtone <info@lowtone.nl>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../lowtone-media-video-vimeo.php:41
+#: ../../lowtone-media-video-vimeo.php:49
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../../lowtone-media-video-vimeo.php:42
+msgid "Add a reference to a video on Vimeo."
+msgstr "Een verwijzing naar een video op Vimeo toevoegen."
